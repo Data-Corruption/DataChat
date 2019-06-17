@@ -1,3 +1,5 @@
+![enter image description here](https://i.imgur.com/MyU4jMP.jpg)
+
 # DataChat
 
 DataChat is a super simple bare bones discord plugin for spigot / paper. Great if you just want to communicate through discord or want some simple code to build your own plugin using.
