@@ -1,0 +1,7 @@
+name: DataChat
+version: ${project.version}
+main: org.mcdatawave.datachat.DataChat
+api-version: 1.13
+load: STARTUP
+authors: [DataCorruption]
+website: mc-datawave.org
