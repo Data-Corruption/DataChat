@@ -17,8 +17,8 @@ Coming soon
  1. Place the jar in your plugins folder 
  2. Run the server, the plugin will create a folder with a config inside
  3. Stop the server, enter your bot token and channel id's in the config. <br />
-  When entering data in the config put it inside quotes like this
-  `token: 'blahblahmynameacheff'  
+  When entering data in the config put it inside quotes like this <br />
+  `token: 'blahblahmynameacheff' <br />
   general: '4206969420'`
  5. Restart the server ;p
 
