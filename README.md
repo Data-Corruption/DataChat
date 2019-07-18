@@ -27,5 +27,5 @@ Coming soon
 
 ## Downloads
 DataChat 1.0
- - 1.14 (coming soon)
+ - [1.14.3](https://www.dropbox.com/s/4hjghw1f0kmc4oj/DataChat-1.1.jar?dl=0)
  - [1.13.2](https://www.dropbox.com/s/mmmqwc86j3n9ptu/DataChat-1.0.jar?dl=0)
