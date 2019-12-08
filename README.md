@@ -11,9 +11,6 @@ Plugin features...
  - "[Discord]" prefix, when clicked opens a url (you can set this to your disc server invite in the config) 
  - executes messages set from the disc channel id from the config "console"
 
-Coming soon
- - Console output in disc console channel
-
 ## How to use
 
  1. Place the jar in your plugins folder 
